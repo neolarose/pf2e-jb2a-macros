@@ -978,4 +978,3 @@ pf2eAnimations.screenshake = function screenshake({
 self.pf2eAnimations = pf2eAnimations;
 
 
-
